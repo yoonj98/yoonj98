@@ -4,7 +4,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=YoonjeongLee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yoonjeong&fontSize=90)
 
 👩🏻‍💻 About me
 ---
