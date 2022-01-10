@@ -6,6 +6,6 @@
 
 👩🏻‍💻 About me
 ---
-👋🏻 Hi, I’m Lee Yoonjeong, a constantly challenging developer. 
-👀 I’m interested in `Data Science`.  
-🌱 I’m currently learning `Statistics`, `AI`.  
+👋🏻 Hi, I’m Lee Yoonjeong, a constantly challenging developer. <br>
+👀 I’m interested in `Data Science`.  <br>
+🌱 I’m currently learning `Statistics`, `AI`.  <br>
