@@ -4,6 +4,8 @@
 	
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=YoonjeongLee&fontSize=90)
+
 👩🏻‍💻 About me
 ---
 👋🏻 Hi, I’m Lee Yoonjeong, a constantly challenging developer. <br>
